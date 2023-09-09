@@ -13,14 +13,14 @@ React - compiler based thanks to webpack and babel. module-css; It does local na
 │     └── robots.txt
 ├── src
 │    ├── components
-│    │       ├── Buton
+│    │       └── Buton
 │    │       │     └── Buton.module.css
 │    │       │     └── Buton.jsx
-│    │       ├── card
+│    │       └── card
 │    │       │     └── Card.module.css
 │    │       │     └── Card.jsx
 │    ├── utils
-│    │       └──  data.js     
+│    │     └──  data.js     
 │    ├── App.js
 │    ├── App.css
 │    ├── index.js
