@@ -36,6 +36,6 @@ React - compiler based thanks to webpack and babel. module-css; It does local na
 https://module-css.netlify.app/
 ### At the end of the project, following topics are to be covered;
 - HTML
-- CSS
+- MODULE CSS
 - JS
 - ReactJS
